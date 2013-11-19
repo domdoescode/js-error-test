@@ -1,3 +1,3 @@
-var one = require('./one')()
+var test = require('./named-function')()
 
-one.myFunction()
+test.myFunction()

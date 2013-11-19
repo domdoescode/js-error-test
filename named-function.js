@@ -1,4 +1,4 @@
-module.exports = function one() {
+module.exports = function () {
   function myFunction() {
     throw new Error('Where am I?')
   }

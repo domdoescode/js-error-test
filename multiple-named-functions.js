@@ -1,5 +1,9 @@
 module.exports = function () {
-  var myFunction = function () {
+  function myFunction() {
+    secondFunction()
+  }
+
+  function secondFunction() {
     throw new Error('Where am I?')
   }
 

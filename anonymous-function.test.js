@@ -1,3 +1,3 @@
-var two = require('./two')()
+var test = require('./anonymous-function')()
 
-two.myFunction()
+test.myFunction()
