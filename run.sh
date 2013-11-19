@@ -1,4 +1,4 @@
 #!/bin/bash
 
-node one.test.js
-node two.test.js
+node anonymous-function.test.js
+node named-function.test.js
